@@ -21,8 +21,7 @@ The repository contains solution consisting of a backend REST API and a user int
 
 **- PracticalTask.WebApp.Test.Integration:** Integration tests for the backend API. These tests ensure that controllers, repositories, database work together as expected.
 
-![image](https://github.com/botbeetle/PracticalTaskWebAppSolution/assets/5052527/e2c218f6-edce-4ce1-a68b-dd7c6104659f)
-
+![WebApi](https://github.com/botbeetle/PracticalTaskWebAppSolution/assets/5052527/6b34f678-36dd-411b-b759-7d493c794fc0)
 
 
 ### UI Client Console Application
@@ -34,8 +33,7 @@ The repository contains solution consisting of a backend REST API and a user int
 
 **- PracticalTask.ClientUI.Test.Integration:** Integration tests for the console application. These tests verify that the client application interacts correctly with the backend API.
 
-![image](https://github.com/botbeetle/PracticalTaskWebAppSolution/assets/5052527/4d16f757-bfbb-45a8-806a-5401bf88b443)
-
+![ClientUI](https://github.com/botbeetle/PracticalTaskWebAppSolution/assets/5052527/459f1811-c4c4-4a2c-afe5-0a7da04dd115)
 
 
 ## Developers
