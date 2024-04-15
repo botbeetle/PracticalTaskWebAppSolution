@@ -15,7 +15,7 @@ The repository contains solution consisting of a backend REST API and a user int
 
 **- PracticalTask.WebApp.Data:** The module of data access and storage, includes repositories, database contexts.
 
-**- PracticalTask.WebApp.Types:** Common types and DTOs (Data Transfer Objects) shared with console application.
+**- PracticalTask.WebApp.Dto:** Common types and DTOs (Data Transfer Objects) shared with console application.
 
 **- PracticalTask.WebApp.Test:** Unit tests for the backend API. 
 
@@ -27,7 +27,7 @@ The repository contains solution consisting of a backend REST API and a user int
 ### UI Client Console Application
 **- PracticalTask.ClientUI:** This module contains the console application for the user interface.
 
-**- PracticalTask.ClientUI.ApiClient:** The API client for the console application. It handles communication with the backend API, including making requests and processing responses.
+**- PracticalTask.ClientUI.Api:** The API client for the console application. It handles communication with the backend API, including making requests and processing responses.
 
 **- PracticalTask.ClientUI.Test:** Unit tests for the console application. 
 
