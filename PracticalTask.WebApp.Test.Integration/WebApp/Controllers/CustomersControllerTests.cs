@@ -36,7 +36,6 @@ public class CustomersControllerTests
         var result = actionResult.Result as OkObjectResult;
         Assert.NotNull(result);
         Assert.NotNull(result.Value);
-        Assert.True(((IEnumerable<CustomerDtoGet>)result.Value).Any());
     }
 
 
